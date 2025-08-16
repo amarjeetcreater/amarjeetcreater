@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 
-<!--
-**amarjeetcreater/amarjeetcreater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amarjeet;Aspiring+Full+Stack+Developer;Web+Developer+%26+Designer;Python+%7C+JavaScript+Enthusiast;Open+Source+Contributor">
+</h1>
 
-Here are some ideas to get you started:
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarjeetcreater&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/amarjeetcreater?tab=followers">
+    <img src="https://img.shields.io/github/followers/amarjeetcreater?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Working on **Multi-Tools Website Project**
+- 🌱 Currently learning **Advanced JavaScript, React, Node.js**
+- 🎯 Goal: **Become a Professional Full Stack Developer**
+- 👨‍💻 Check out my projects: [GitHub Repos](https://github.com/amarjeetcreater?tab=repositories)
+- 📫 Reach me at: **amarjeetprajapati80095@gmail.com**
+- ⚡ I love creating unique tools & automations
+
+---
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarjeetcreater&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetcreater&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetcreater&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+<a href="https://github.com/amarjeetcreater/Multi-Tools-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amarjeetcreater&repo=Multi-Tools-Website&theme=tokyonight" />
+</a>
+<a href="https://github.com/amarjeetcreater/YOUR-SECOND-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amarjeetcreater&repo=YOUR-SECOND-REPO&theme=tokyonight" />
+</a>
+
+---
+
+## 📬 Connect With Me
+<p align="left">
+  <a href="https://github.com/amarjeetcreater"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:amarjeetprajapati80095@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amarjeetcreater&theme=onedark&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
+</p>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+</p>
