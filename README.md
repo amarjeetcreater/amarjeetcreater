@@ -1,8 +1,7 @@
-<!-- Custom Banner -->
+<!-- GIF Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amarjeetcreater/amarjeetcreater/main/banner.png" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
-
 
 <!-- Animated Intro -->
 <h1 align="center">
